@@ -31,7 +31,7 @@
 
 
 # mh-vehiclehandeling
-- you can edit all your gta 5 vehicle handelings.
+- you can edit all your gta 5 vehicle handelings in one file.
 - it uses the handling.meta, you can add more vehicles if you want.
 - For Vehicle Speed: use the `fInitialDriveMaxFlatVel`
 
