@@ -6,5 +6,6 @@ description 'MH Vehicle Handeling'
 version '1.0.0'
 files {'data/handling.meta'}
 server_scripts {'server/update.lua'}
+dependencies {'mh-core'}
 data_file 'HANDLING_FILE' 'data/handling.meta'
 lua54 'yes'
